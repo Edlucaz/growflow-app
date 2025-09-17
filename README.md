@@ -19,13 +19,13 @@ This application provides a clean, user-friendly interface to manage your daily 
 ## 🖼️ Screenshots
 
 ### Default Light Theme
-![Screenshot of the Growflow application in light mode with an empty task list.](src/assets/placeholder_light_empty.png)
+![Screenshot of the Growflow application in light mode with an empty task list.](src/assets/Light_empty.png)
 
 ### Dark Theme with Tasks
-![Screenshot of the Growflow application in dark mode with a populated task list.](src/assets/placeholder_dark_tasks.png)
+![Screenshot of the Growflow application in dark mode with a populated task list.](src/assets/dark_tasks.png)
 
 ### Alerts in Action
-![Screenshot showing the "Important Task Alert" and "Overdue Important Task" alerts in the sidebar.](src/assets/placeholder_alerts.png)
+![Screenshot showing the "Important Task Alert" and "Overdue Important Task" alerts in the sidebar.](src/assets/alerts.png)
 
 ---
 
